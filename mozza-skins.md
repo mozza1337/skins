@@ -1,7 +1,7 @@
 # a list of some skins i frequently use i guess
 
 # [- aristia+trail -](https://mega.nz/#!NuoSXI4J!0xzmrfLyW_6qXocF_NZcFlZ0--UmFvxEEtFRn7h98LI)
-![](https://osu.ppy.sh/ss/18223414/9428)
+![](https://camo.githubusercontent.com/9098e6161f99a1bccc0de7d37bc85a0ca290687d03c67da82e533170876f1b14/68747470733a2f2f73756e392d33302e757365726170692e636f6d2f633835333632382f763835333632383239342f3135366133642f646f6c7651734b695935632e6a7067)
 
 # [- rafis hddt](https://osuskins.net/skin/ekynLzX)
 ![](https://osuskins.net/screenshots/ekynLzX.jpg)
